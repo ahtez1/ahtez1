@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0d34ult
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in 0's & 1's
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Upcoming Startups
 - 📫 How to reach me oduorsm09@proton.me
 - 😄 Pronouns: He, Him, 
