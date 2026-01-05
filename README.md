@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0d34ult
+- 👋 Hi, I’m Sean Michael
 - 👀 I’m interested in 0's & 1's
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Upcoming Startups
-- 📫 How to reach me oduorsm09@proton.me
+- 📫 How to reach me oduorsm09@gmail.com
 - 😄 Pronouns: He, Him, 
 - ⚡ Fun fact: 
 
